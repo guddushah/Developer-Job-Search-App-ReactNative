@@ -7,5 +7,4 @@
 
 # App Demo
 
-###################### ![demo](https://github.com/guddushah/Developer-Job-Search-App-ReactNative/assets/40028193/6fd4b6b7-8191-4096-9ff5-bc4d04173c1e)
-
+ replace ![demo](https://github.com/guddushah/Developer-Job-Search-App-ReactNative/assets/40028193/6fd4b6b7-8191-4096-9ff5-bc4d04173c1e) with <img src="[https://your-image-url.type](https://github.com/guddushah/Developer-Job-Search-App-ReactNative/assets/40028193/6fd4b6b7-8191-4096-9ff5-bc4d04173c1e)https://github.com/guddushah/Developer-Job-Search-App-ReactNative/assets/40028193/6fd4b6b7-8191-4096-9ff5-bc4d04173c1e" width="100" height="500">
