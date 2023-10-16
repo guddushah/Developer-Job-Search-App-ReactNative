@@ -11,4 +11,4 @@
 - [Expo Router: Repo](https://github.com/expo/router)
 
 # App Demo
-<img src="https://github.com/guddushah/Developer-Job-Search-App-ReactNative/assets/40028193/6fd4b6b7-8191-4096-9ff5-bc4d04173c1e" width="220">
+<img src="https://github.com/guddushah/Developer-Job-Search-App-ReactNative/assets/40028193/6fd4b6b7-8191-4096-9ff5-bc4d04173c1e" width="300">
